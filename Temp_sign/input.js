@@ -17,8 +17,8 @@ t[4] = ['Temperature','Dew point T','Wind speed','Wind direction','Geopotential'
 v[5] = ['925','850','700','500','300','200','150','100','50']
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['MNWC_preop_cy43h21_MSG','MNWC_preop_cy43h21_MSG_IAU']
-t[6] = ['MNWC_preop_cy43h21_MSG','MNWC_preop_cy43h21_MSG_IAU']
+v[6] = ['MNWC_preop_cy43h21_MSG','MNWC_preop_cy43h21_MSG_IAU','MNWC_preop_MEPS2_preop']
+t[6] = ['MNWC_preop_cy43h21_MSG','MNWC_preop_cy43h21_MSG_IAU','MNWC_preop_MEPS2_preop']
 v[7] = ['ALL','00','12'] ;
 t[7] = v[7] ;
 
